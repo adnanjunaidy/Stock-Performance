@@ -1,0 +1,3 @@
+npm install react react-dom next typescript tailwindcss postcss autoprefixer \
+            @tanstack/react-query zod @hookform/resolvers \
+            react-hook-form lucide-react
