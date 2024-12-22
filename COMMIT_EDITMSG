@@ -1,0 +1,10 @@
+Assistant checkpoint: Fix build directory path and rebuild application
+
+Assistant generated file changes:
+- server/vite.ts: Update build directory path
+
+---
+
+User prompt:
+
+fix the error
